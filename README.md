@@ -51,7 +51,7 @@ For example
 # terminal 3
 ./miner Hopper /tmp/hopper_in /tmp/hopper_out
 ...
-# terminal [Number of miner]
+# terminal [Number of miners]
 ```
 ### STEP 3 - Start up server
 ```
