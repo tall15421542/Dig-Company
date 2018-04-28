@@ -59,3 +59,7 @@ cd server
 make
 ./boss ../config/config.txt
 ```
+### More detailed SPEC
+```
+https://systemprogrammingatntu.github.io/MP3
+```
