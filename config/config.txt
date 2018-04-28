@@ -1,0 +1,5 @@
+MINE: /tmp/mine.bin
+MINER: /tmp/fifo1_in /tmp/fifo1_out
+MINER: /tmp/fifo2_in /tmp/fifo2_out
+MINER: /tmp/fifo3_in /tmp/fifo3_out
+
